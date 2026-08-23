@@ -1,0 +1,27 @@
+[
+    {
+        "hastalik": "Erken Başlangıçlı Ventilatör İlişkili Pnömoni (VAP)",
+        "semptomlar": ["erken başlangıç", "entübe", "ilk 4 gün", "S. pneumoniae", "H. influenzae"],
+        "klinik_uyari": "Hastaneye yatıştan veya entübe edildikten sonraki ilk 4 gün içinde gelişen VAP'tır. Ampirik tedavide Seftriakson veya Ampisilin-Sulbaktam tercih edilebilir."
+    },
+    {
+        "hastalik": "Geç Başlangıçlı Ventilatör İlişkili Pnömoni (VAP)",
+        "semptomlar": ["entübe", "ateş", "pürülan balgam", "lökositoz", "5. gün ve sonrası", "Pseudomonas aeruginosa", "Acinetobacter"],
+        "klinik_uyari": "5. gün ve sonrasında gelişen VAP'tır. Çoklu ilaca dirençli (ÇİD) patojen riski çok yüksektir. Ampirik tedavide Piperasilin-Tazobaktam (4.5g 4x1) veya Meropenem (1g 3x1) başlanmalıdır."
+    },
+    {
+        "hastalik": "MRSA Şüpheli Pnömoni veya Sepsis",
+        "semptomlar": ["önceki kültürlerde MRSA", "dirençli enfeksiyon", "ateş", "lökositoz"],
+        "klinik_uyari": "Hastanın daha önceki kültürlerinde MRSA üremesi varsa, tedaviye mutlaka Vankomisin (15 mg/kg) veya Linezolid (600mg 2x1) eklenmelidir."
+    },
+    {
+        "hastalik": "Sepsis / Septik Şok",
+        "semptomlar": ["hipotansiyon", "taşikardi", "bilinç değişikliği", "laktat yüksekliği", "ateş", "titreme", "odak belirsiz"],
+        "klinik_uyari": "Tanı konulduktan sonraki ilk 1 saat içinde (Altın Saat) geniş spektrumlu intravenöz (IV) antibiyotikler başlanmalıdır. Odak belirsizse: Karbapenem (Meropenem) + Glikopeptid (Vankomisin) kombinasyonu hayat kurtarıcıdır."
+    },
+    {
+        "hastalik": "Böbrek Fonksiyon Değişikliği ve Dozaj Ayarlaması",
+        "semptomlar": ["kreatinin klirensi", "CrCl", "böbrek yetmezliği", "diyaliz"],
+        "klinik_uyari": "Yoğun bakım hastalarında böbrek fonksiyonları anlık değişebilir. Meropenem ve Piperasilin-Tazobaktam dozları CrCl değerine göre güncellenmelidir. Vankomisin için trough düzeyi 15-20 mcg/mL arasında tutulmalıdır."
+    }
+]

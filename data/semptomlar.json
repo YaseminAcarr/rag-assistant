@@ -1,0 +1,12 @@
+[
+  {
+    "hastalik": "Geç Başlangıçlı Ventilatör İlişkili Pnömoni (VAP)",
+    "semptomlar": ["entübe", "ateş", "pürülan balgam", "lökositoz", "akciğer grafisinde infiltrasyon", "solunum yetmezliği"],
+    "klinik_uyari": "Hasta 5 günden uzun süredir entübeyse çoklu ilaca dirençli (ÇİD) patojen riski yüksektir."
+  },
+  {
+    "hastalik": "Sepsis / Septik Şok",
+    "semptomlar": ["hipotansiyon", "taşikardi", "bilinç değişikliği", "laktat yüksekliği", "ateş", "titreme"],
+    "klinik_uyari": "Tanı sonrası ilk 1 saat (Altın Saat) içinde acil olarak geniş spektrumlu antibiyotik başlanmalıdır."
+  }
+]

@@ -1,0 +1,11 @@
+TÜRKİYE YOĞUN BAKIM ENFEKSİYONLARI AMPİRİK TEDAVİ REHBERİ (GÜNCEL ÖZET)
+
+1. Ventilatör İlişkili Pnömoni (VAP)
+Hastaneye yatıştan veya entübasyondan 48-72 saat sonra gelişen pnömonilerdir.
+- Erken Başlangıçlı VAP (İlk 4 gün): Genellikle duyarlı bakteriler (S. pneumoniae, H. influenzae) etkendir. Ampirik tedavide Seftriakson veya Ampisilin-Sulbaktam tercih edilebilir.
+- Geç Başlangıçlı VAP (5. gün ve sonrası): Çoklu ilaca dirençli (ÇİD) patojen riski (Pseudomonas aeruginosa, Acinetobacter) çok yüksektir. Ampirik tedavide Piperasilin-Tazobaktam (4.5g 4x1) veya Meropenem (1g 3x1) başlanmalıdır.
+- MRSA Şüphesi: Hastanın daha önceki kültürlerinde MRSA üremesi varsa, tedaviye mutlaka Vankomisin (15 mg/kg) veya Linezolid (600mg 2x1) eklenmelidir.
+
+2. Sepsis ve Septik Şok
+Sepsis şüphesi olan hastalarda, tanı konulduktan sonraki ilk 1 saat içinde (Altın Saat) geniş spektrumlu intravenöz (IV) antibiyotikler başlanmalıdır. 
+- Odak belirsizse: Karbapenem (ör. Meropenem) + Glikopeptid (ör. Vankomisin) kombinasyonu hayat kurtarıcıdır.

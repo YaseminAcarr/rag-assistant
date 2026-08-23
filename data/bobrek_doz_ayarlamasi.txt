@@ -1,0 +1,17 @@
+YOĞUN BAKIM ANTİBİYOTİK DOZ AYARLAMA TABLOSU
+
+Kritik Not: Yoğun bakım hastalarında böbrek fonksiyonları anlık değişebilir. Kreatinin Klirensi (CrCl) değerine göre günlük dozajlar kesinlikle güncellenmelidir.
+
+İlaç Adı: Meropenem
+- CrCl > 50 mL/dk: Normal doz uygulanır (1g 8 saatte bir).
+- CrCl 26-50 mL/dk: 1g 12 saatte bir uygulanır.
+- CrCl 10-25 mL/dk: 500mg 12 saatte bir uygulanır.
+- CrCl < 10 mL/dk (Diyaliz hastaları): 500mg 24 saatte bir uygulanır.
+
+İlaç Adı: Piperasilin-Tazobaktam
+- CrCl > 40 mL/dk: 4.5g 6 saatte bir.
+- CrCl 20-40 mL/dk: 2.25g 6 saatte bir.
+- CrCl < 20 mL/dk: 2.25g 8 saatte bir.
+
+İlaç Adı: Vankomisin
+- Vankomisin dozu hastanın kilosuna (15-20 mg/kg) ve böbrek fonksiyonuna göre hesaplanır. Sürekli böbrek replasman tedavisi (CRRT) alanlarda günlük kan seviyesi (trough düzeyi) ölçümü zorunludur. Trough düzeyi 15-20 mcg/mL arasında tutulmalıdır.
