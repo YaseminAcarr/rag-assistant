@@ -12,19 +12,21 @@ Bu proje, yoğun bakım ünitelerinde yatan kritik hastalar için **Microsoft Fo
 ## 📸 Ekran Görüntüleri ve Arayüz
 
 <p align="center">
-  <img width="1902" height="857" alt="Ekran görüntüsü 2026-08-23 223057" src="https://github.com/user-attachments/assets/71d9c566-c8f2-4135-b493-ab2cb8606706" />
+  <img width="1902" height="857" alt="Klinik Karar Destek ve Güvenlik Uyarısı" src="https://github.com/user-attachments/assets/9181f436-3a8c-44c6-938b-2ebda7dfe041" />
   <br>
   <em>1. Klinik karar destek, dinamik böbrek güvenlik uyarısı ve ampirik tedavi yanıtı ekranı</em>
 </p>
 
+
 <p align="center">
-  <img width="1878" height="853" alt="Ekran görüntüsü 2026-08-23 223227" src="https://github.com/user-attachments/assets/85bb8f3a-eac4-4549-8d50-57ceef81ba02" />
+  <img width="1878" height="853" alt="Geçmiş Vaka Yönetimi" src="https://github.com/user-attachments/assets/358ad935-0b26-4c7b-9fe6-33292f6a11a9" />
   <br>
   <em>2. Geçmiş konsültasyon oturumlarını saklama ve eski vakaları yükleme paneli</em>
 </p>
 
+
 <p align="center">
-  <img width="1896" height="853" alt="Ekran görüntüsü 2026-08-23 223302" src="https://github.com/user-attachments/assets/72a7544a-972b-4090-851b-23b16bb9cfea" />
+  <img width="1896" height="853" alt="Rehber Yükleme ve Kütüphane Arşivi" src="https://github.com/user-attachments/assets/094ebdcb-e9de-4f51-927e-647f92ce66c5" />
   <br>
   <em>3. Dinamik PDF/TXT/JSON rehber yükleme ve otonom kütüphane arşivi</em>
 </p>
