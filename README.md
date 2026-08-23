@@ -17,11 +17,15 @@ Bu proje, yoğun bakım ünitelerinde yatan kritik hastalar için **Microsoft Fo
   <em>1. Klinik karar destek, dinamik böbrek güvenlik uyarısı ve ampirik tedavi yanıtı ekranı</em>
 </p>
 
+---
+
 <p align="center">
   <img width="1878" height="853" alt="Geçmiş Vaka Yönetimi" src="https://github.com/user-attachments/assets/358ad935-0b26-4c7b-9fe6-33292f6a11a9" />
   <br>
   <em>2. Geçmiş konsültasyon oturumlarını saklama ve eski vakaları yükleme paneli</em>
 </p>
+
+---
 
 <p align="center">
   <img width="1896" height="853" alt="Rehber Yükleme ve Kütüphane Arşivi" src="https://github.com/user-attachments/assets/094ebdcb-e9de-4f51-927e-647f92ce66c5" />
