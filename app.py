@@ -111,6 +111,10 @@ if query := st.chat_input("Konsültasyon notunuzu yazın..."):
     with st.chat_message("assistant"):
         st.markdown(answer)
 
+        if docs:
+            unique_sources = set([doc[2] for doc in docs]) 
+            st.caption(f"📚 **Kullanılan Rehber(ler):** {', '.join(unique_sources)}")
+
     st.session_state.messages.append({"role": "assistant", "content": answer})
     
     database.save_chat_session(st.session_state.session_id, patient_id, st.session_state.messages)
