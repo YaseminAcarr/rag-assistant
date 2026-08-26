@@ -12,7 +12,7 @@ Bu proje, yoğun bakım ünitelerinde yatan kritik hastalar için **Microsoft Fo
 ## 📸 Ekran Görüntüleri ve Arayüz
 
 <p align="center">
-  <img width="1902" height="857" alt="Klinik Karar Destek ve Güvenlik Uyarısı" src="https://github.com/user-attachments/assets/9181f436-3a8c-44c6-938b-2ebda7dfe041" />
+  <img width="1902" height="830" alt="hastaparametreleri" src="https://github.com/user-attachments/assets/f49828cb-ff47-4423-8ff5-a89211f71b57" />
   <br>
   <em>1. Klinik karar destek, dinamik böbrek güvenlik uyarısı ve ampirik tedavi yanıtı ekranı</em>
 </p>
@@ -20,7 +20,7 @@ Bu proje, yoğun bakım ünitelerinde yatan kritik hastalar için **Microsoft Fo
 ---
 
 <p align="center">
-  <img width="1878" height="853" alt="Geçmiş Vaka Yönetimi" src="https://github.com/user-attachments/assets/358ad935-0b26-4c7b-9fe6-33292f6a11a9" />
+ <img width="1924" height="835" alt="GeçmişVaka" src="https://github.com/user-attachments/assets/5a4a6eb7-f521-4201-9a82-8be5fd7c46ac" />
   <br>
   <em>2. Geçmiş konsültasyon oturumlarını saklama ve eski vakaları yükleme paneli</em>
 </p>
@@ -28,7 +28,7 @@ Bu proje, yoğun bakım ünitelerinde yatan kritik hastalar için **Microsoft Fo
 ---
 
 <p align="center">
-  <img width="1896" height="853" alt="Rehber Yükleme ve Kütüphane Arşivi" src="https://github.com/user-attachments/assets/094ebdcb-e9de-4f51-927e-647f92ce66c5" />
+  <img width="1968" height="797" alt="pdfyüklemeKütüphane" src="https://github.com/user-attachments/assets/ef576ae1-4288-4809-b692-f31728a52a35" />
   <br>
   <em>3. Dinamik PDF/TXT/JSON rehber yükleme ve otonom kütüphane arşivi</em>
 </p>
